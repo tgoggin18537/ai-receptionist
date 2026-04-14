@@ -1,0 +1,6 @@
+{
+  "tools": [
+    { "name": "book_appointment", "description": "Book an appointment in GoHighLevel" },
+    { "name": "transfer_call", "description": "Transfer the call to a human agent" }
+  ]
+}
